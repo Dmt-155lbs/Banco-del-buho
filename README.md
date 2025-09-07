@@ -11,4 +11,4 @@ The project is not currently accepting pull request or any other kind of externa
 - Xavier Carpio | [@xaviercarpio13](https://github.com/xaviercarpio13)
 - Riki Guallichico | [@Gualiprogrammer](https://github.com/Gualiprogrammer)
 - Kevin Martinez | [@Al3xMR](https://github.com/Al3xMR)
-
+- Daniel Martínez | [@Dmt-155lbs](https://github.com/Dmt-155lbs)
